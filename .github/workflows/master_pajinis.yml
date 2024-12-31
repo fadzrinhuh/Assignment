@@ -59,4 +59,4 @@ jobs:
           app-name: 'pajinIS'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E458FB053BE4717972FDCD91888F802 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F472AAC35CFB4E8F94900C8AA9E57364 }}
